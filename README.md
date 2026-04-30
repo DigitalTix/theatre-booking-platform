@@ -1,7 +1,7 @@
 # 🎭 DigitalTix – Theatre Booking Platform
 
 > A modern, full-featured theatre ticket booking platform built for the digital age.  
-> Inspired by the scheduling excellence of **Setmore** and the frictionless booking UX of **Calendly**.
+> Inspired by the frictionless booking UX of **Calendly**.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/DigitalTix/theatre-booking-platform)](https://github.com/DigitalTix/theatre-booking-platform/issues)
@@ -160,4 +160,3 @@ This repository is managed by the DigitalTix product team. Issues are created by
 ## 📄 License
 
 MIT © DigitalTix
-
